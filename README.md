@@ -8,4 +8,4 @@
 <table><tbody><tr><td><strong>Button</strong></td><td><strong>Function</strong></td></tr><tr><td>Up Arrow / W</td><td>Forward direction</td></tr><tr><td>Right Arrow / D</td><td>Right direction</td></tr><tr><td>Down Arrow / S</td><td>Backward direction</td></tr><tr><td>Left Arrow / A</td><td>Left direction</td></tr><tr><td>Space</td><td>Continue or Restart (after finishing or failing a floor)</td></tr></tbody></table>
 <p><strong>Work In Progress:</strong><br>
 </p>
-<ul><li>Scoreboard integrated with Firebase&nbsp;</li><li>Restrict maximum path per floor with Shortest Path&nbsp;Algorithm</li></ul>
+<ul><li>Scoreboard integrated with Firebase&nbsp;</li><li>Restrict maximum path per floor that player can traverse with Shortest Path&nbsp;Algorithm</li></ul>
