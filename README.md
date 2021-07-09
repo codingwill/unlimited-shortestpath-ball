@@ -1,4 +1,4 @@
-<p></p>
+<p>Play the game here (using browser): <a href="https://codingwill.itch.io/unlimited-shortest-path-ball">link</a></p>
 <p><strong>Unlimited Shortest Path Ball is a modified rolling ball game with some additional simple mechanics inspired from Fall Guys and Shortest Path Algorithm.</strong></p>
 <p>You play as a ball and your goal is to collect as many cubes as possible while minimizing the traversal path, and to survive from the falling floor! The floor size will grow as you proceed further, <strong>no maximum level</strong>!</p>
 <p>Achieve the highest score so you can be placed in the Top Scoreboard<strong></strong>.</p>
